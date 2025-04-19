@@ -30,15 +30,7 @@ cd your-repo
 npm install
 npm run dev
 
-```
-bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 - ✅ **Badges** from [shields.io](https://shields.io/)
 - 🖼️ **GIF demo or app screenshot**
