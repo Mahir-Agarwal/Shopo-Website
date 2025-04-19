@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 
     <h1 style="color: #0070f3;">🚀 Next.js Project</h1>
     <p>This is a <strong>Next.js project</strong> bootstrapped with <code>create-next-app</code>.</p>
@@ -41,6 +38,4 @@ bun dev
     <h2>☁️ Deploy on Vercel</h2>
     <p>The easiest way to deploy your Next.js app is with <a href="https://vercel.com/" target="_blank">Vercel</a>, the platform from the creators of Next.js.</p>
     <p>Check out the <a href="https://nextjs.org/docs/deployment" target="_blank">Next.js deployment documentation</a> for more details.</p>
-
-  </body>
-</html>
+    
