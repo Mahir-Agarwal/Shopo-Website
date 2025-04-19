@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Next.js Project</h1>
+<h1 align="center">🚀 Shopo-Website </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-gif-or-banner.gif" alt="Project Banner" width="80%" />
